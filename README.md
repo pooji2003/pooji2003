@@ -13,5 +13,5 @@ I’m a Power BI Visualizer who transforms complex data into clear, actionable d
 ## 📫 Get in Touch
 - LinkedIn: https://www.linkedin.com/in/poojitha-y-190131344/
 - Portfolio: https://pooji2003.github.io/portfolio1/#
-- Email id: ypoojitha03@gmail.com
+- Email id:  ypoojitha03@gmail.com
 

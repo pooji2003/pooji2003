@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Poojitha Yalamandala 👋
 
-<!--
-**pooji2003/pooji2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a Power BI Visualizer who transforms complex data into clear, actionable dashboards that empower smarter, data-driven business decisions.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python
+- **Tools:** PowerBI, MS Excel, Git
+- **Database:** SQL (MySQL)
+- **Front-End Technologies:** HTML, CSS
+- **Design:** Canva, Inshot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/poojitha-y-190131344/)
+- [Portfolio](https://pooji2003.github.io/portfolio1/#)
+
